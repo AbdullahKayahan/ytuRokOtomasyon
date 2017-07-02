@@ -1,0 +1,2 @@
+rok.mdb C klasörüne programý çalýþtýmak için ise
+Ytü_rok-bin-debug-ytu-rok.exe
